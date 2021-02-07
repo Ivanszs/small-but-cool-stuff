@@ -10,4 +10,6 @@
  
  - -MediaMonks svg and favicon are custom made.
 
-**By Ivan Matias Szucs**.
+(http://img.youtube.com/vi/CBAAGVS3FB8/0.jpg)](http://www.youtube.com/watch?v=CBAAGVS3FB8 "Video")
+
+https://www.youtube.com/watch?v=CBAAGVS3FB8
