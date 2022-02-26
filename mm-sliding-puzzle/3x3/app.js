@@ -16,6 +16,7 @@ const charInteractions = {
 };
 
 console.log('hola')
+console.log('chau')
 
 //lock/unlock tiles with .disabled
 const unlockTiles = currentTileArea => {
