@@ -15,6 +15,8 @@ const charInteractions = {
   I: ["F", "H"]
 };
 
+console.log('hola')
+
 //lock/unlock tiles with .disabled
 const unlockTiles = currentTileArea => {
   tiles.map(tile => {
